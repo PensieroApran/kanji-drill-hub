@@ -1,0 +1,18 @@
+{
+  "name": "kanji-drill-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "C:\\Progra~1\\nodejs\\node.exe node_modules/vite/bin/vite.js",
+    "build": "C:\\Progra~1\\nodejs\\node.exe node_modules/vite/bin/vite.js build",
+    "preview": "C:\\Progra~1\\nodejs\\node.exe node_modules/vite/bin/vite.js preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {}
+}
